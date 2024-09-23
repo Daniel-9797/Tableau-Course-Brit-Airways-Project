@@ -67,3 +67,6 @@ The analysis can really be approached in different ways, such as the following:
 •	Conducting sentiment analysis to gauge public sentiment and perceptions towards the company.
 •	Comparing performance against other airlines within the industry.
 
+![Dashboard 1](https://github.com/user-attachments/assets/d2f33dcb-aee2-44e6-b73a-09cf50641e99)
+
+
